@@ -1,1 +1,16 @@
-new
+{
+  "adminh": [
+    {
+      "User": "adminh",
+      "app_name": "gxg",
+      "status": "online",
+      "password": "RA@2026y",
+      "upload_type": "github",
+      "cloud_upload_visible": true,
+      "message": "hgc",
+      "domain": "hhc",
+      "post_api": "hbc",
+      "get_api": "hch"
+    }
+  ]
+}
