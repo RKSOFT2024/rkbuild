@@ -1,5 +1,5 @@
 {
   "Message": "Test Remote",
-  "com.rkbuild.demo1": true,
-  "com.rkbuild.demo2": true
+  "com.rkbuild.demo2": true,
+  "com.rkbuild.demo": true
 }
