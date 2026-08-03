@@ -9,8 +9,8 @@
       "cloud_upload_visible": true,
       "message": "এইটা আমাদের টেস্ট মেসেজ",
       "domain": "RKSOFT2024",
-      "post_api": "rkbuild",
-      "get_api": ".json"
+      "post_api": "Json",
+      "get_api": "demo.json"
     }
   ]
 }
