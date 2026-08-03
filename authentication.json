@@ -12,5 +12,19 @@
       "post_api": "Json",
       "get_api": "demo.json"
     }
+  ],
+  "devtest": [
+    {
+      "User": "devtest",
+      "app_name": "Test App",
+      "status": "online",
+      "password": "devtest",
+      "upload_type": "github",
+      "cloud_upload_visible": true,
+      "message": "Only For Test",
+      "domain": "RKSOFT2024",
+      "post_api": "Json",
+      "get_api": "demo.json"
+    }
   ]
 }
