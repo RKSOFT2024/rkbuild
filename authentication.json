@@ -1436,5 +1436,20 @@
       "get_api": "https://raw.githubusercontent.com/RKSOFT2024/rkbuild/refs/heads/main/authentication.json",
       "hash": "https://raw.githubusercontent.com/RKSOFT2024/rkbuild/refs/heads/main/authentication.json"
     }
+  ],
+  "hfhh": [
+    {
+      "User": "hfhh",
+      "app_name": "hfhh",
+      "status": "online",
+      "password": "hfhh",
+      "upload_type": "api",
+      "cloud_upload_visible": true,
+      "message": "gxg",
+      "domain": "ydy",
+      "post_api": "ydy",
+      "get_api": "ycy",
+      "hash": "hxg"
+    }
   ]
 }
