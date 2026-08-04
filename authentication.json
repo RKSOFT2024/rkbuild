@@ -1417,8 +1417,9 @@
       "cloud_upload_visible": true,
       "message": "এই অ্যাপস বর্তমানে সর্বশেষ আপডেট আছে",
       "domain": "easyprobashinet.xyz",
-      "post_api": "\/v1\/json\/update",
-      "get_api": "\/api\/app?json=29ec8b5c867c61b8c62e"
+      "post_api": "/v1/json/update",
+      "get_api": "/api/app?json=29ec8b5c867c61b8c62e"
+      "hash": "29ec8b5c867c61b8c62e"
     }
   ]
 }
