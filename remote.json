@@ -1,9 +1,5 @@
 {
   "apps": {
-    "com.rkbuild.sakayettel": {
-      "destroy": false,
-      "message": "টেস্ট করা হচ্ছে"
-    },
     "com.rkbuild.lemonvipvpn": {
       "destroy": true,
       "message": "Test Messege"
