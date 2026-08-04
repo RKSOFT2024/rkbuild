@@ -1407,21 +1407,6 @@
       "hash": "f089be4439a2d5f647d1"
     }
   ],
-  "rarara": [
-    {
-      "User": "rarara",
-      "app_name": "gxgvx",
-      "status": "online",
-      "password": "rararar",
-      "upload_type": "api",
-      "cloud_upload_visible": true,
-      "message": "hi",
-      "domain": "https://raw.githubusercontent.com/RKSOFT2024/rkbuild/refs/heads/main/authentication.json",
-      "post_api": "https://raw.githubusercontent.com/RKSOFT2024/rkbuild/refs/heads/main/authentication.json",
-      "get_api": "https://raw.githubusercontent.com/RKSOFT2024/rkbuild/refs/heads/main/authentication.json",
-      "hash": "https://raw.githubusercontent.com/RKSOFT2024/rkbuild/refs/heads/main/authentication.json"
-    }
-  ],
   "hfhh": [
     {
       "User": "hfhh",
