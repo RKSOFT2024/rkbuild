@@ -1414,7 +1414,7 @@
       "status": "online",
       "password": "Muaz3625",
       "upload_type": "api",
-      "cloud_upload_visible": false,
+      "cloud_upload_visible": true,
       "message": "এই অ্যাপস বর্তমানে সর্বশেষ আপডেট আছে",
       "domain": "easyprobashinet.xyz",
       "post_api": "\/v1\/json\/update",
