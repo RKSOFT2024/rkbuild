@@ -1407,21 +1407,6 @@
       "hash": "f089be4439a2d5f647d1"
     }
   ],
-  "rara": [
-    {
-      "User": "rara",
-      "app_name": "rara",
-      "status": "online",
-      "password": "rara",
-      "upload_type": "api",
-      "cloud_upload_visible": true,
-      "message": "rar",
-      "domain": "gd",
-      "post_api": "bd",
-      "get_api": "v",
-      "hash": "g"
-    }
-  ],
   "rarara": [
     {
       "User": "rarara",
