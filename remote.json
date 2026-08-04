@@ -1,3 +1,4 @@
 {
-  "Message": "please contact developer"
+  "Message": "please contact developer",
+  "{\n  \"apps\": {\n    \"com.app.one\": {\n      \"destroy\": true,\n      \"message\": \"অ্যাপ ওয়ানের সেবা বন্ধ করা হয়েছে।\"\n    },\n    \"com.app.two\": {\n      \"destroy\": false,\n      \"message\": \"\"\n    },\n    \"com.app.three\": {\n      \"destroy\": true,\n      \"message\": \"অ্যাপ থ্রি আপডেট করে পুনরায় চেষ্টা করুন।\"\n    },\n    \"com.app.four\": {\n      \"destroy\": true,\n      \"message\": \"অ্যাপ ফোরের লাইসেন্সের মেয়াদ শেষ হয়েছে।\"\n    }\n  }\n}": true
 }
