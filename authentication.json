@@ -123,21 +123,6 @@
       "hash": "d9a2a1b15f0532c1ee9f"
     }
   ],
-  "devtest": [
-    {
-      "User": "devtest",
-      "app_name": "Test App",
-      "status": "online",
-      "password": "123456",
-      "upload_type": "github",
-      "cloud_upload_visible": true,
-      "domain": "jomarakibul",
-      "message": "আপনার অ্যাপের নতুন আপডেট এসেছে",
-      "post_api": "raganall",
-      "get_api": "rk.json",
-      "hash": ""
-    }
-  ],
   "Ruhul": [
     {
       "User": "Ruhul",
@@ -1397,29 +1382,26 @@
       "hash": "73c49a8dcc3788df3d05"
     }
   ],
-  "Manik": [
-    {
-      "User": "Manik",
-      "app_name": "ABDUL TUNNEL VPN",
-      "status": "online",
-      "password": "123456",
-      "domain": "mdviptunnelmax.xyz",
-      "hash": "f089be4439a2d5f647d1"
-    }
-  ],
   "Muaz251": [
     {
       "User": "Muaz251",
       "app_name": "LEMON VIP VPN",
       "status": "online",
       "password": "Muaz3625",
-      "upload_type": "api",
-      "cloud_upload_visible": true,
-      "message": "এই অ্যাপস বর্তমানে সর্বশেষ আপডেট আছে",
       "domain": "easyprobashinet.xyz",
       "post_api": "/v1/json/update",
-      "get_api": "/api/app?json=29ec8b5c867c61b8c62e"
+      "get_api": "/api/app?json=29ec8b5c867c61b8c62e",
       "hash": "29ec8b5c867c61b8c62e"
+    }
+  ],
+  "Manik" : [
+    {
+     "User":"Manik",
+     "app_name":"ABDUL TUNNEL VPN",
+     "status":"online",
+     "password":"123456",
+     "domain":"mdviptunnelmax.xyz",
+     "hash":"f089be4439a2d5f647d1"
     }
   ]
 }
