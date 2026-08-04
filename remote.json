@@ -7,6 +7,10 @@
     "com.rkbuild.sakayettel": {
       "destroy": true,
       "message": "টেস্ট করা হচ্ছে"
+    },
+    "com.rkbuild.lemonvipvpn": {
+      "destroy": true,
+      "message": "I'm rk"
     }
   }
 }
