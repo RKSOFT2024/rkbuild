@@ -1,7 +1,7 @@
 {
   "apps": {
     "com.rkbuild.lemonvipvpn": {
-      "destroy": false,
+      "destroy": true,
       "message": "Test Messege"
     }
   }
