@@ -1420,5 +1420,20 @@
       "get_api": "/uploads/json/f089be4439a2d5f647d1.json",
       "hash": "f089be4439a2d5f647d1"
     }
+  ],
+  "Razzak321": [
+    {
+      "User": "Razzak321",
+      "app_name": "SEVEN STAR VIP VPN",
+      "status": "online",
+      "password": "Razzak123",
+      "upload_type": "api",
+      "cloud_upload_visible": true,
+      "message": "",
+      "domain": "sevenstarvipvpn.xyz",
+      "post_api": "/v1/json/update",
+      "get_api": "/api/app?json=c5ce4b6ccc1348dfc49a",
+      "hash": "c5ce4b6ccc1348dfc49a"
+    }
   ]
 }
