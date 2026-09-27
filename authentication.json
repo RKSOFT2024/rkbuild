@@ -464,15 +464,15 @@
   "Shakhawat": [
     {
       "User": "Shakhawat",
-      "app_name": "ST Special VIP VPN",
+      "app_name": "ST SPECIAL VIP VPN",
       "status": "online",
-      "password": "Shakhawat66336",
+      "password": "Shakhawat28363",
       "upload_type": "api",
       "cloud_upload_visible": true,
       "message": "",
       "domain": "stvipvpn.xyz",
-      "post_api": "/v1/json/update",
-      "get_api": "/api/app?json=c297ee8b09df4b667d2a",
+      "post_api": "/api/app?json=c297ee8b09df4b667d2a",
+      "get_api": "/v1/json/update",
       "hash": "c297ee8b09df4b667d2a"
     }
   ],
