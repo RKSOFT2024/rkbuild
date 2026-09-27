@@ -1435,20 +1435,5 @@
       "get_api": "/api/app?json=c5ce4b6ccc1348dfc49a",
       "hash": "c5ce4b6ccc1348dfc49a"
     }
-  ],
-  "New123": [
-    {
-      "User": "New123",
-      "app_name": "ST SPECIAL VIP VPN",
-      "status": "online",
-      "password": "28363",
-      "upload_type": "api",
-      "cloud_upload_visible": true,
-      "message": "",
-      "domain": "stvipvpn.xyz",
-      "post_api": "/api/app?json=c297ee8b09df4b667d2a",
-      "get_api": "/v1/json/update",
-      "hash": "c297ee8b09df4b667d2a"
-    }
   ]
 }
