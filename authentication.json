@@ -97,10 +97,13 @@
       "app_name": "MEARPY VPN",
       "status": "online",
       "password": "AFRAN264343",
-      "domain": "forexvn.xyz",
+      "upload_type": "api",
+      "cloud_upload_visible": true,
+      "message": "",
+      "domain": "forexvpp.xyz",
       "post_api": "/api/edit.php",
-      "get_api": "/api/files/app?json=0ca3b29e168a12a547e6",
-      "hash": "0ca3b29e168a12a547e6"
+      "get_api": "/api/files/app?json=1d3292cf5dd507454fb1",
+      "hash": "1d3292cf5dd507454fb1"
     }
   ],
   "Ekbal": [
