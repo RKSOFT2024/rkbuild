@@ -515,13 +515,16 @@
   "ALOM": [
     {
       "User": "ALOM",
-      "app_name": "CHAND VIP SSH",
+      "app_name": "THE ALOM KING VPN",
       "status": "online",
       "password": "Alom2025",
-      "domain": "whatalomvipnet.xyz",
+      "upload_type": "api",
+      "cloud_upload_visible": true,
+      "message": "",
+      "domain": "alomkingv2ray.xyz",
       "post_api": "/v1/json/update",
-      "get_api": "/api/app?json=e826270a080f1bacaedc",
-      "hash": "e826270a080f1bacaedc"
+      "get_api": "/api/app?json=ffc594f4c5376806bf15",
+      "hash": "ffc594f4c5376806bf15"
     }
   ],
   "Jahidul": [
