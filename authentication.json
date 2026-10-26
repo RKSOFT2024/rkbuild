@@ -1474,5 +1474,20 @@
       "get_api": "/api/app?json=11bcd1579aee3d44fb4f",
       "hash": "11bcd1579aee3d44fb4f"
     }
+  ],
+  "Sharif525": [
+    {
+      "User": "Sharif525",
+      "app_name": "S2 V2Ray",
+      "status": "online",
+      "password": "Ansari6125",
+      "upload_type": "api",
+      "cloud_upload_visible": true,
+      "message": "",
+      "domain": "sotow.xyz",
+      "post_api": "/v1/json/update",
+      "get_api": "/api/app?json=1f2cc3fff36638f11814",
+      "hash": "1f2cc3fff36638f11814"
+    }
   ]
 }
