@@ -1483,7 +1483,7 @@
       "password": "Ansari6125",
       "upload_type": "api",
       "cloud_upload_visible": true,
-      "message": "",
+      "message": "please payment karo",
       "domain": "sotow.xyz",
       "post_api": "/v1/json/update",
       "get_api": "/api/app?json=1f2cc3fff36638f11814",
