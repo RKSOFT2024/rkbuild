@@ -1,3 +1,8 @@
 {
-  "apps": {}
+  "apps": {
+    "com.rkbuild.s2v2ray": {
+      "destroy": false,
+      "message": "This admin is a mother fuck puppy who killed my money and made apps and didn't pay money"
+    }
+  }
 }
