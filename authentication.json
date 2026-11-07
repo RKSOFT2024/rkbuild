@@ -1489,5 +1489,20 @@
       "get_api": "/api/app?json=11bcd1579aee3d44fb4f",
       "hash": "11bcd1579aee3d44fb4f"
     }
+  ],
+  "MAHABUR6352": [
+    {
+      "User": "MAHABUR6352",
+      "app_name": "X-King Power App",
+      "status": "online",
+      "password": "MAHABUR48929",
+      "upload_type": "api",
+      "cloud_upload_visible": true,
+      "message": "",
+      "domain": "ksakingpower.xyz",
+      "post_api": "/api/files/update",
+      "get_api": "/api/files/app?json=0dc56792ca0a8c9d2bbd",
+      "hash": "0dc56792ca0a8c9d2bbd"
+    }
   ]
 }
