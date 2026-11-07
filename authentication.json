@@ -1504,5 +1504,20 @@
       "get_api": "/api/files/app?json=0dc56792ca0a8c9d2bbd",
       "hash": "0dc56792ca0a8c9d2bbd"
     }
+  ],
+  "ANSUMAN379": [
+    {
+      "User": "ANSUMAN379",
+      "app_name": "AM V2RAY",
+      "status": "online",
+      "password": "ANSUMAN6350",
+      "upload_type": "api",
+      "cloud_upload_visible": true,
+      "message": "",
+      "domain": "ansumanvip.xyz",
+      "post_api": "/v1/json/update",
+      "get_api": "/api/app?json=910d4145abd6d835900e",
+      "hash": "910d4145abd6d835900e"
+    }
   ]
 }
