@@ -455,9 +455,12 @@
   "Roni": [
     {
       "User": "Roni",
-      "app_name": "RJ Tunnel Fast Net",
+      "app_name": "RJ Tunnel Pro",
       "status": "online",
       "password": "roni@11664",
+      "upload_type": "api",
+      "cloud_upload_visible": true,
+      "message": "",
       "domain": "bbariacompany.xyz",
       "post_api": "/v1/json/update",
       "get_api": "/api/app?json=a2e27e99c64e682dc804",
