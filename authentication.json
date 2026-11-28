@@ -461,10 +461,10 @@
       "upload_type": "api",
       "cloud_upload_visible": true,
       "message": "",
-      "domain": "bbariacompany.xyz",
+      "domain": "bd-rh-team.xyz",
       "post_api": "/v1/json/update",
-      "get_api": "/api/app?json=a2e27e99c64e682dc804",
-      "hash": "a2e27e99c64e682dc804"
+      "get_api": "/api/app?json=0c8818304fc1506b122a",
+      "hash": "0c8818304fc1506b122a"
     }
   ],
   "Droman": [
